@@ -1,3 +1,5 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="173" height="43" alt="Chailas" src="./assets/logo.svg" /></a></p>
+
 ## Hi there 👋
 
 <!--
